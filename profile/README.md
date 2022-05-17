@@ -11,5 +11,5 @@ Here, you'll find all the code related to the Discovery Portal, including:
 - [NIAID Data Ecosystem Schema](https://github.com/NIAID-Data-Ecosystem/nde-schemas): schemas used to transform metadata harvested by the Discovery Crawlers into a common schema, derived from [schema.org](https://schema.org/Dataset) and [BioSchemas](https://bioschemas.org/profiles/ComputationalTool/1.0-RELEASE).
 
 
-## More information on schemas
+## See also
 - [View and extend the NIAID Data Ecosystem schemas](https://discovery.biothings.io/view/niaid)
